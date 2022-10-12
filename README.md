@@ -6,7 +6,7 @@ Hierbei handelt es sich um die theoretische Umsetzung des Spiels Poker.
 
 Das Repository enthält:
 
-Benutztes Regelwerk
+- Benutztes Regelwerk
 - Use Cases
 - Use Case Beschreibungen
 - Klassendiagramm
