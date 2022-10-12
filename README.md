@@ -1,4 +1,4 @@
-# Poker Game
+# Texas Holde'em
 
 Dieses Repository wurde zum Zweck der Gruppenarbeit von Nico, Francesco, Niklas und Andi in der Vorlesung SE Software Engineering erstellt. 
 
