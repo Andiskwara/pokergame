@@ -1,4 +1,6 @@
+<div align='middle'>
 # Texas Hold'em
+</div>
 <div align='middle'>
 <img src="https://img.freepik.com/premium-vector/poker-logo-design-inspiration_427676-36.jpg?w=2000" alt="Poker" width="350"/>
 </div>
