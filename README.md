@@ -1,4 +1,6 @@
-# Texas Hold'em
+# Texas Hold'emt
+
+![Poker](https://img.freepik.com/premium-vector/poker-logo-design-inspiration_427676-36.jpg?w=2000 "Poker")
 
 Dieses Repository wurde zum Zweck der Gruppenarbeit von Nico, Francesco, Niklas und Andi in der Vorlesung SE Software Engineering erstellt. 
 
